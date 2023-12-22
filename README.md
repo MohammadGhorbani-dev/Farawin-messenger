@@ -1,6 +1,6 @@
 # mohammadGhorbani.io
 
-website: https://mohammadghorbani-dev.github.io/mohammadGhorbani.io/
+website: https://mohammadghorbani-dev.github.io/Farawin-messenger/
 
 Farawin messenger screenshots
 
